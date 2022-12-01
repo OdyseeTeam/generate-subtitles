@@ -1,3 +1,3 @@
 # generate-subtitles
 
-Live now at https://freesubtitles.ai
+Uses Whisper and LibreTranslate to generate transcriptions and with subtitles
