@@ -1,3 +1,3 @@
 # generate-subtitles
 
-Uses Whisper and LibreTranslate to generate transcriptions and with subtitles
+Uses Whisper to generate transcriptions and LibreTranslate to automatically translate them
